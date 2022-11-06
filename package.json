@@ -1,0 +1,24 @@
+{
+  "name": "typescript-for-modern-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyPent/TypeScript-for-Modern-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyPent/TypeScript-for-Modern-Development/issues"
+  },
+  "homepage": "https://github.com/YuriyPent/TypeScript-for-Modern-Development#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
